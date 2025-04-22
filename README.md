@@ -16,5 +16,5 @@ This script was created to rename a large number of existing files on a Linux sy
 Place the script in the directory containing your files and run:
 
 ```bash
-python rename_ml.py
+python rename_file.py
 
